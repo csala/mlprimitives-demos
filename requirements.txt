@@ -1,0 +1,4 @@
+mlprimitives==0.2.3
+mlblocks==0.3.4
+jupyter==1.0.0
+mit-d3m==0.2.1
